@@ -1,0 +1,9 @@
+Include/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+var/
+.env
+.venv/
+venv/
